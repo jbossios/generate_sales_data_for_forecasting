@@ -30,4 +30,4 @@ def gen_data(make_plot = False):
 
 
 if __name__ == '__main__':
-    gen_data(make_plot = True)
+    gen_data(make_plot = False)
